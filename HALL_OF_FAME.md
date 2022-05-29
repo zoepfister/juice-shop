@@ -1,5 +1,6 @@
 # Hall of Fame
 
+
 ## Core Team
 
 - [Björn Kimminich](https://github.com/bkimminich) aka `bkimminich`
